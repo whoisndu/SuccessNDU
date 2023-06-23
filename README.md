@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuccessNDU
-- 👀 I’m interested in Data Science and Blockchain
-- 🌱 I’m currently learning javascript, solidity, web3 and web2, smart contract auditing. 
-- 💞️ I’m looking to collaborate on Data Science projects and block chain projects. 
+- 👀 I’m interested in Data Science and Analytics 
+- 💞️ I’m looking to collaborate on Data Science projects. 
 - 📫 How to reach me successndu@protonmail.com
 
 <!---
