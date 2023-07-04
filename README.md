@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SuccessNDU
+- 👋 Hi, I’m Success Daniel Ndu @whoisndu
 - 👀 I’m interested in Data Science and Analytics 
-- 💞️ I’m looking to collaborate on Data Science projects. 
-- 📫 How to reach me successndu@protonmail.com
+- 💞️ I’m currently actively seeking roles as a Data Analyst. 
+- 📫 How to reach me successndu@gmail.com
 
 <!---
 SuccessNDU/SuccessNDU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
